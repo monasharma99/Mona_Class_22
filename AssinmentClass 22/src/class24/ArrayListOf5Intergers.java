@@ -20,3 +20,4 @@ public class ArrayListOf5Intergers {
 	
 	}
 
+//Good. After that you had to find total number of items in the ArrayList using size() method
