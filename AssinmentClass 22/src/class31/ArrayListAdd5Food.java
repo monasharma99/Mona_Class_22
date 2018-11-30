@@ -17,3 +17,4 @@ public static void main(String[] args) {
 	System.out.println("First food item is " + food[1]);
 }
 }
+//You created an array whereas you had to create an ArrayList. Otherwise the program is correct.
